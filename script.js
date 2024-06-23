@@ -2,7 +2,8 @@
 // randomNumber = Math.random().toString(16);
 // randomNumber = Math.random().toString(16).substring(2, 8);
 // console.log(randomNumber);
-
+// It suppose to generate random colors,. but it's just the content that is changing when click...
+// So work onj the script......................
 const hex = document.querySelector(".hex");
 const btn = document.querySelector(".generate");
 const copy = document.querySelector(".copy");
